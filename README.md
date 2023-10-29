@@ -2,4 +2,4 @@
 This is my first Repository
 <br>
 This is a Demo <br>
-Author- amit
+Author- Amit Kumar Vishwakarma
